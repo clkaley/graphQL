@@ -14,10 +14,12 @@ Otomatik Dokümanlama
 
 ## REST & GraphQL
 https://swapi.dev/
+
 https://swapi-graphql.eskerda.vercel.app/
 
 
 # Apollo Server
+
 Apollo Server, hızlıca GraphQL sunucuları oluşturabileceğimiz, oldukça az bağımlılığı olan bir kütüphanedir.
 - mkdir graphql-project
 - cd graphql-project
@@ -28,6 +30,7 @@ Apollo Server, hızlıca GraphQL sunucuları oluşturabileceğimiz, oldukça az 
 
 # APOLLO CLIENT
 Apollo Client, GraphQL backend'ler ile çalışırken client tarafında tercih edilebilecek en iyi kütüphanelerden birisidir. Query çalıştırdığızda, dönen veriyi state'e yazmanıza gerek yok. Apollo Client bu işi otomatik olarak yapıyor.loading,error ve data gibi Component bazlı state'ler oluşturmanıza da gerek yok.
+
 -> npm install @apollo/client graphql
 
 
